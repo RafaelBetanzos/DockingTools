@@ -1,0 +1,3 @@
+Uso de los scripts para correr Autodock GPU
+Revisar los scripts porque falta corregir algunas cosas.
+Por ejemplo el primer directorio de trabajo que debe ser agregado antes de la primer corrida.

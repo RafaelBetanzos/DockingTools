@@ -1,0 +1,9 @@
+{
+    'DALGO':'autodock4',
+    'ligands':'CHEMBL535,CHEMBL603469',
+    'receptors':'2pzi',
+    'grid_center':'62.72,4.40,-27.68',
+    'ga_run':'1000',
+    'grid_size':'25,25,25',
+    'reference':'ref'
+}
