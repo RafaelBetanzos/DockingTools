@@ -54,7 +54,7 @@ Compilation parameters:  NUM_RECEPTOR_TYPES=20 NEINT=2048
  energy_lookup table has   655360 entries of size 8
         e_vdW_Hb table has   401408 entries of size 8
 Maximum number of maps that can be computed = 16 (defined by MAX_MAPS in "autocomm.h").
-This file was created at:			1:45 45" p.m., 05/03/2023
+This file was created at:			2:02 52" p.m., 05/03/2023
                    using:			"nodo1"
 
 
@@ -6952,27 +6952,27 @@ ________  ________  ________  ______________  __________________________
     -11     -8.725     8.0%            0.46s  Real= 0.02,  CPU= 0.01,  System= 0.00
     -10     -8.350    12.0%            0.44s  Real= 0.02,  CPU= 0.02,  System= 0.00
      -9     -7.975    16.0%            0.42s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     -8     -7.600    20.0%            0.20s  Real= 0.01,  CPU= 0.02,  System= 0.00
-     -7     -7.225    24.0%            0.38s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     -6     -6.850    28.0%            0.36s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     -5     -6.475    32.0%            0.34s  Real= 0.02,  CPU= 0.01,  System= 0.00
+     -8     -7.600    20.0%            0.40s  Real= 0.02,  CPU= 0.02,  System= 0.00
+     -7     -7.225    24.0%            0.19s  Real= 0.01,  CPU= 0.02,  System= 0.00
+     -6     -6.850    28.0%            0.36s  Real= 0.02,  CPU= 0.01,  System= 0.00
+     -5     -6.475    32.0%            0.34s  Real= 0.02,  CPU= 0.02,  System= 0.00
      -4     -6.100    36.0%            0.32s  Real= 0.02,  CPU= 0.02,  System= 0.00
      -3     -5.725    40.0%            0.30s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     -2     -5.350    44.0%            0.28s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     -1     -4.975    48.0%            0.13s  Real= 0.01,  CPU= 0.02,  System= 0.00
+     -2     -5.350    44.0%            0.14s  Real= 0.01,  CPU= 0.02,  System= 0.00
+     -1     -4.975    48.0%            0.26s  Real= 0.02,  CPU= 0.01,  System= 0.00
       0     -4.600    52.0%            0.24s  Real= 0.02,  CPU= 0.02,  System= 0.00
-      1     -4.225    56.0%            0.22s  Real= 0.02,  CPU= 0.01,  System= 0.00
+      1     -4.225    56.0%            0.22s  Real= 0.02,  CPU= 0.02,  System= 0.00
       2     -3.850    60.0%            0.20s  Real= 0.02,  CPU= 0.02,  System= 0.00
-      3     -3.475    64.0%            0.09s  Real= 0.01,  CPU= 0.02,  System= 0.00
-      4     -3.100    68.0%            0.16s  Real= 0.02,  CPU= 0.02,  System= 0.00
-      5     -2.725    72.0%            0.14s  Real= 0.02,  CPU= 0.02,  System= 0.00
-      6     -2.350    76.0%            0.12s  Real= 0.02,  CPU= 0.01,  System= 0.00
+      3     -3.475    64.0%            0.18s  Real= 0.02,  CPU= 0.02,  System= 0.00
+      4     -3.100    68.0%            0.08s  Real= 0.01,  CPU= 0.02,  System= 0.00
+      5     -2.725    72.0%            0.14s  Real= 0.02,  CPU= 0.01,  System= 0.00
+      6     -2.350    76.0%            0.12s  Real= 0.02,  CPU= 0.02,  System= 0.00
       7     -1.975    80.0%            0.10s  Real= 0.02,  CPU= 0.02,  System= 0.00
       8     -1.600    84.0%            0.08s  Real= 0.02,  CPU= 0.02,  System= 0.00
-      9     -1.225    88.0%            0.06s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     10     -0.850    92.0%            0.02s  Real= 0.01,  CPU= 0.02,  System= 0.00
+      9     -1.225    88.0%            0.03s  Real= 0.01,  CPU= 0.02,  System= 0.00
+     10     -0.850    92.0%            0.04s  Real= 0.02,  CPU= 0.01,  System= 0.00
      11     -0.475    96.0%            0.02s  Real= 0.02,  CPU= 0.02,  System= 0.00
-     12     -0.100   100.0%            0.00s  Real= 0.02,  CPU= 0.01,  System= 0.00
+     12     -0.100   100.0%            0.00s  Real= 0.02,  CPU= 0.02,  System= 0.00
 
 Grid	Atom	Minimum   	Maximum
 Map 	Type	Energy    	Energy 
@@ -6990,4 +6990,4 @@ ____	____	_____________	_____________
 
 
 /home/rbetanzos/../shared/programs/autodock/autodock4/autogrid4: Successful Completion.
-Real= 0.50s,  CPU= 0.47s,  System= 0.00s
+Real= 0.49s,  CPU= 0.47s,  System= 0.00s

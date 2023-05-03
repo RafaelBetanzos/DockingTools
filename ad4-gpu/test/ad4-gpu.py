@@ -73,7 +73,7 @@ def autodocking4(paramers_dict):
                 print(f'prepdpf se ha ejecutado correctamente!')
             else:
                 print(f'Error al ejecutar prepdpf')
-            if os.system(f'/home/shared/programs/autodock/Autodock-GPU/bin/autodock_gpu_128wi -M {receptor}.maps.fld -L {ligand}.pdbqt --nrun {args.ga_run} --output-cluster-poses 1 -R {ligand}.pdbqt --hsym')== 0:
+            if os.system(f'~/../shared/programs/autodock/AutoDock-GPU/bin/autodock_gpu_128wi -M {receptor}.maps.fld -L {ligand}.pdbqt --nrun {args.ga_run} --output-cluster-poses 1 -R {ligand}.pdbqt --hsym')== 0:
                print(f'El Docking de {receptor} y {ligand} se ha completado exitosamente!')
             else:
                 print(f'Error al ejecutar autodock4')
