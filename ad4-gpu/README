@@ -1,3 +1,9 @@
 Uso de los scripts para correr Autodock GPU
 Revisar los scripts porque falta corregir algunas cosas.
 Por ejemplo el primer directorio de trabajo que debe ser agregado antes de la primer corrida.
+
+Este directorio de trabajo contiene:
+1.-script para correr AD4-GPU en un cluster administrado con slurm. ad4-gpu.slurm
+2.-script para realizar la corrida de docking. ad4-gpu.py
+3.-archivo de texto de entrada, necesario para la corrida de docking. dockparms.py
+4.-script para separar los resultados del archivo DLG de AD4-GPU. post_dock_gpu.py
